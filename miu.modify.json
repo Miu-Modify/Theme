@@ -122,46 +122,6 @@
     "plus": {
         "version": "0",
         "iconpack": "solarbroken",
-        "mentionLineColor": "#FF7F50",
-        "customOverlays": true,
-        "icons": {
-            "ic_radio_circle_checked": "#FF7F50",
-            "ic_radio_circle_checked__overlay": "#111c1f",
-            "ic_radio_square_24px": "#FF7F50",
-            "ic_radio_square_checked_24px": "#FF7F50",
-            "ic_radio_square_checked_24px__overlay": "#111c1f",
-            "ic_rich_presence_dark_12px": "#FF7F50",
-            "ic_selection_checked_24px": "#FF7F50",
-            "ic_selection_checked_24px__overlay": "#111c1f",
-            "ic_selection_none_24px": "#000000",
-            "ic_star_filled": "#FF7F50",
-            "img_guild_folder": "#FF7F50",
-            "StatusMobileOnline": "#FF7F50",
-            "StatusOnline": "#3ba55d",
-            "StatusIdle": "#faa81a",
-            "StatusDND": "#ed4245",
-            "StatusOffline": "#000000",
-            "ic_send": "#111c1f",
-            "ic_send__overlay": "#FF7F50",
-            "friends_toast_icon": "#FF7F50",
-            "toast_copy_link": "#FF7F50",
-            "toast_copy_message": "#FF7F50",
-            "toast_image_saved": "#FF7F50",
-            "toast_invite_sent": "#FF7F50",
-            "ic_crown_16px": "#FF7F50",
-            "member_list_badge_16px": "#FF7F50",
-            "ic_nitro_rep_24px": "#FF7F50",
-            "ShopIcon": "#FF7F50",
-            "PencilIcon": "#FF7F50",
-            "SettingsIcon": "#FF7F50",
-            "MagnifyingGlassIcon": "#FF7F50",
-            "search": "#FF7F50",
-            "MoreHorizontalIcon": "#FF7F50",
-            "UserCheckIcon": "#FF7F50",
-            "NitroWheelIcon": "#FF7F50",
-            "down_arrow": "#FF7F50",
-            "QuestsIcon": "#FF7F50"
-        }
-    },
-    "spec": 2
+        "mentionLineColor": "#FFFFFF"
+    }
 }
