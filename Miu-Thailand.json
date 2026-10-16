@@ -30,11 +30,11 @@
             "#00000005"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1e2b2f",
+            "#000000",
             "#e0d8d0"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#111c1f",
+            "#000000",
             "#ccc4bc"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
@@ -54,7 +54,7 @@
             "#f0e8e0E6"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1e2b2f",
+            "#000000",
             "#ede5dc"
         ],
         "BACKGROUND_PRIMARY": [
@@ -90,7 +90,7 @@
             "#faf3ee"
         ],
         "CARD_PRIMARY_PRESSED_BG": [
-            "#1e2b2f",
+            "#000000",
             "#ede5dc"
         ],
         "CARD_SECONDARY_BG": [
@@ -98,7 +98,7 @@
             "#f0e8e0"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#1e2b2f",
+            "#000000",
             "#ede5dc"
         ],
         "CHANNEL_ICON": [
@@ -110,7 +110,7 @@
             "#5a3020"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1e2b2f",
+            "#000000",
             "#e8dfd5"
         ],
         "CHAT_BACKGROUND": [
@@ -134,11 +134,11 @@
             "#3a2010"
         ],
         "INPUT_BACKGROUND": [
-            "#111c1f",
+            "#000000",
             "#e8dfd5"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#111c1f",
+            "#000000",
             "#e8dfd5"
         ],
         "INPUT_BORDER_ACTIVE": [
@@ -218,7 +218,7 @@
             "#e8dfd5"
         ],
         "BG_MOD_FAINT": [
-            "#1e2b2f",
+            "#000000",
             "#ede5dc"
         ],
         "BG_MOD_STRONG": [
@@ -262,7 +262,7 @@
             "#f0e8e0"
         ],
         "ALERT_BG": [
-            "#1e2b2f",
+            "#000000",
             "#ede5dc"
         ],
         "CONTEXT_MENU_BACKDROP_BACKGROUND": [
@@ -270,11 +270,11 @@
             "#2a1808aa"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#1e2b2f",
+            "#000000",
             "#ede5dc"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#1e2b2f",
+            "#000000",
             "#e8dfd5"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
@@ -290,7 +290,7 @@
             "#f0e8e0"
         ],
         "REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND": [
-            "#1e2b2f",
+            "#000000",
             "#e8dfd5"
         ],
         "REDESIGN_BUTTON_SECONDARY_OVERLAY_PRESSED_BACKGROUND": [
@@ -318,7 +318,7 @@
             "#ffffff"
         ],
         "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": [
-            "#1e2b2f",
+            "#000000",
             "#e8dfd5"
         ],
         "REDESIGN_BUTTON_DESTRUCTIVE_TEXT": [
@@ -330,7 +330,7 @@
             "#2a1808"
         ],
         "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-            "#1e2b2f",
+            "#000000",
             "#e8dfd5"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
@@ -342,7 +342,7 @@
             "#5a3020"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#1e2b2f",
+            "#000000",
             "#e8dfd5"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
@@ -402,7 +402,7 @@
             "#b84820"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#1e2b2f",
+            "#000000",
             "#e8dfd5"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
@@ -504,7 +504,7 @@
         "PRIMARY_330": "#d0a088",
         "PRIMARY_360": "#c09078",
         "PRIMARY_400": "#a07060",
-        "PRIMARY_460": "#1e2b2f",
+        "PRIMARY_460": "#000000",
         "PRIMARY_500": "#7a9098",
         "PRIMARY_530": "#4a6068",
         "PRIMARY_600": "#192428",
@@ -527,8 +527,8 @@
         "PLUM_17": "#141e21",
         "PLUM_18": "#192428",
         "PLUM_20": "#141e21",
-        "PLUM_22": "#1e2b2f",
-        "PLUM_23": "#1e2b2f",
+        "PLUM_22": "#000000",
+        "PLUM_23": "#000000",
         "PLUM_24": "#141e21",
         "BRAND_260": "#FF7F50aa",
         "BRAND_300": "#FF7F50",
@@ -547,14 +547,14 @@
         "BRAND_700": "#401808",
         "BRAND_730": "#2a1005",
         "GUILD_BOOSTING_BLUE": "#192428",
-        "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#1e2b2f",
+        "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#000000",
         "GUILD_BOOSTING_PINK": "#FF7F50",
         "GUILD_BOOSTING_PURPLE": "#243336",
-        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#1e2b2f",
+        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#000000",
         "PREMIUM_PERK_PINK": "#FF7F50",
         "PREMIUM_TIER_0_HEADER_GRADIENT_1": "#192428",
-        "PREMIUM_TIER_0_HEADER_GRADIENT_2": "#1e2b2f",
-        "PREMIUM_TIER_0_HEADER_GRADIENT_3": "#1e2b2f",
+        "PREMIUM_TIER_0_HEADER_GRADIENT_2": "#000000",
+        "PREMIUM_TIER_0_HEADER_GRADIENT_3": "#000000",
         "PREMIUM_TIER_0_HEADER_GRADIENT_4": "#192428",
         "BLURPLE_8": "#FF7F50",
         "BLURPLE_5": "#FF7F50",
@@ -575,8 +575,8 @@
         "BLUE_400": "#7a9098",
         "BLUE_500": "#7a9098",
         "WHITE_630": "#7a9098",
-        "ROLE_DEFAULT": "#1e2b2f",
-        "BLACK_460": "#1e2b2f",
+        "ROLE_DEFAULT": "#000000",
+        "BLACK_460": "#000000",
         "CHAT_MENTIONS_BACKGROUND_DARK": "#FF7F5030",
         "CHAT_MENTIONS_FOREGROUND_DARK": "#FF7F50"
     },
@@ -619,8 +619,8 @@
             "ShopIcon": "#FF7F50",
             "PencilIcon": "#FF7F50",
             "SettingsIcon": "#FF7F50",
-            "MagnifyingGlassIcon": "#FF7F50",
-            "search": "#FF7F50",
+            "MagnifyingGlassIcon": "#FFFFFF",
+            "search": "#FFFFFF",
             "MoreHorizontalIcon": "#FF7F50",
             "UserCheckIcon": "#FF7F50",
             "NitroWheelIcon": "#FF7F50",
