@@ -7,8 +7,8 @@
         "description": "Midnight theme, turned up to 11!",
         "authors": [
             {
-                "name": "breadcat0314",
-                "id": "354957913187680257"
+                "name": "m.introvert",
+                "id": "1234591631056044042"
             }
         ]
     },
@@ -122,6 +122,6 @@
     "plus": {
         "version": "0",
         "iconpack": "solarduotone",
-        "mentionLineColor": "#FFFFFF"
+        "mentionLineColor": "#FF6600"
     }
 }
