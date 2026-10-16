@@ -4,7 +4,7 @@
     "version": "1.4",
     "authors": [
         {
-            "name": "Modify",
+            "name": "Miu",
             "id": "1234591631056044042"
         }
     ],
@@ -53,7 +53,7 @@
         "TEXT_DANGER": ["#e07070", "#c05050"],
         "TEXT_LINK": ["#FF7F50", "#d45f30"],
         "TEXT_NORMAL": ["#ffd0b8", "#2a1808"],
-        "TEXT_MUTED": ["#000000", "#6a5040"],
+        "TEXT_MUTED": ["#FFFFFF", "#6a5040"],
         "TEXT_PRIMARY": ["#ffd0b8", "#2a1808"],
         "TEXT_WARNING": ["#e09858", "#c07838"],
         "TEXT_POSITIVE": ["#70b898", "#30886a"],
