@@ -1,14 +1,14 @@
 {
     "spec": 3,
-    "version": "1.7.1",
+    "version": "1.7.0",
     "id": "breadcat0314.pureblack",
     "display": {
-        "name": "Pure light",
-        "description": "light theme, turned up to 11!",
+        "name": "Pure Black",
+        "description": "Midnight theme, turned up to 11!",
         "authors": [
             {
-                "name": "m.introvert",
-                "id": "1234591631056044042"
+                "name": "breadcat0314",
+                "id": "354957913187680257"
             }
         ]
     },
