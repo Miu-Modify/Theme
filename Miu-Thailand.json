@@ -70,7 +70,7 @@
         "BG_BRAND": ["#FF7F50", "#d45f30"],
         "PANEL_BG": ["#000000", "#faf3eeE6"],
         "BACKGROUND_SURFACE_HIGH": ["#000000", "#faf3eeD9"],
-        "TAB_BAR_BACKGROUND": ["#000000", "#f0e8e0E6"],
+        "TAB_BAR_BACKGROUND": ["#FFFFFF", "#f0e8e0E6"],
         "TYPING_INDICATOR_BG": ["#000000", "#f0e8e0"],
         "ALERT_BG": ["#000000", "#ede5dc"],
         "CONTEXT_MENU_BACKDROP_BACKGROUND": ["#0a1215aa", "#2a1808aa"],
