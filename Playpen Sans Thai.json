@@ -1,0 +1,14 @@
+{
+  "spec": 1,
+  "name": "Playpen Sans Thai",
+  "previewText": "Playpen Sans Thai",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLAhePoxxAISLTzA.ttf",
+    "ggsans-Bold": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLZRePoxxAISLTzA.ttf",
+    "ggsans-BoldItalic": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLZRePoxxAISLTzA.ttf",    
+    "ggsans-Semibold": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLXBePoxxAISLTzA.ttf",
+    "ggsans-SemiboldItalic": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLXBePoxxAISLTzA.ttf",    
+    "NotoSans-Semibold": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLXBePoxxAISLTzA.ttf",
+    "SourceCodePro-Semibold": "https://fonts.gstatic.com/s/playpensansthai/v8/VdG3AYIdG5kSgHwmKT9wYu2rs0cBsu-N7E_aclWp2hxLXBePoxxAISLTzA.ttf"
+  }
+}
